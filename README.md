@@ -30,7 +30,7 @@ Building the AI platform at **[Dragonfly Intelligence](https://dragonfly.com.au)
 
 - 🏦 **Co-Founder & CTO** at **[Slate](https://slateos.ai)** — AI-powered credit origination for banks, turning manual loan processing into sub-minute credit decisions
 - 🏠 **Founding Engineer → CTO** at **[OwnHome](https://ownhome.com)** — Employee #2, built the tech from scratch through a $38M Series A (Square Peg), scaling to $8.5B+ in loan applications
-- 🏛️ **Team Lead** at **Macquarie Group** — Digital banking platforms and payments at enterprise scale
+- 🏛️ **Software Engineer → Team Lead** at **Macquarie Group** — Digital banking platforms and payments at enterprise scale
 - 🏦 **Software Architect** at **Westpac** — Open Banking API platform
 
 ## Connect
