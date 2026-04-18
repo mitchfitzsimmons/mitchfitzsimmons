@@ -24,6 +24,7 @@ Building the AI platform at **[Dragonfly Intelligence](https://dragonfly.com.au)
 
 ## Projects
 
+- 🪨 **[grugnews](https://github.com/mitchfitzsimmons/grugnews)** — Convert complex text to plain language (grug speak). CLI, library, and local web UI. Bring your own LLM (Anthropic, OpenAI, or local Ollama / LM Studio)
 - 🎙️ **[tailwispr](https://github.com/mitchfitzsimmons/tailwispr)** — Turn your phone into a wireless microphone for your computer over Tailscale
 
 ## Previously
